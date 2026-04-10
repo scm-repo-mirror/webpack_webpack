@@ -13981,6 +13981,7 @@ declare class Module extends DependenciesBlock {
 
 	/**
 <<<<<<< HEAD
+<<<<<<< HEAD
 	 * Returns generated source.
 	 * @deprecated Use codeGeneration() instead
 =======
@@ -13990,6 +13991,8 @@ declare class Module extends DependenciesBlock {
 	invalidateReuse(): void;
 
 	/**
+=======
+>>>>>>> 2969fec21 (fix: update)
 	 * Use codeGeneration() instead
 	 * @deprecated
 >>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
