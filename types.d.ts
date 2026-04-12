@@ -13980,22 +13980,8 @@ declare class Module extends DependenciesBlock {
 	getSourceBasicTypes(): ReadonlySet<string>;
 
 	/**
-<<<<<<< HEAD
-<<<<<<< HEAD
 	 * Returns generated source.
 	 * @deprecated Use codeGeneration() instead
-=======
-	 * Called when the module is reused in a new compilation without being rebuilt.
-	 * Subclasses can override to clear cached state that may depend on the module graph.
-	 */
-	invalidateReuse(): void;
-
-	/**
-=======
->>>>>>> 2969fec21 (fix: update)
-	 * Use codeGeneration() instead
-	 * @deprecated
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
 	 */
 	source(
 		dependencyTemplates: DependencyTemplates,
@@ -15614,6 +15600,16 @@ declare class NormalModule extends Module {
 			| (string | RegExp | ((content: string) => boolean))[],
 		request: string
 	): boolean;
+
+	/**
+	 * <<<<<<< HEAD
+	 * <<<<<<< HEAD
+	 * Generates code and runtime requirements for this module.
+	 * =======
+	 * Called when the module is reused in a new compilation without being rebuilt.
+	 * Subclasses can override to clear cached state that may depend on the module graph.
+	 */
+	invalidateReuse(): void;
 	static getCompilationHooks(
 		compilation: Compilation
 	): NormalModuleCompilationHooks;

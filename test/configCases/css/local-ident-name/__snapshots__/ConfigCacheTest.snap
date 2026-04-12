@@ -14,45 +14,25 @@ Object {
 
 exports[`ConfigCacheTestCases css local-ident-name exported tests should have correct local ident for css export locals 2`] = `
 Object {
-<<<<<<< HEAD
-  "btn--info_is-disabled_1": "_15e922b2c97f47f17c54",
-  "btn-info_is-disabled": "_15e922b2c97f47f17c54",
-  "color-red": "--_15e922b2c97f47f17c54",
+  "btn--info_is-disabled_1": "_0dd29f73dea88606ae8e",
+  "btn-info_is-disabled": "_0dd29f73dea88606ae8e",
+  "color-red": "--_0dd29f73dea88606ae8e",
   "foo": "bar",
-  "foo_bar": "_15e922b2c97f47f17c54",
+  "foo_bar": "_0dd29f73dea88606ae8e",
   "my-btn-info_is-disabled": "value",
-  "simple": "_15e922b2c97f47f17c54",
-=======
-  "btn--info_is-disabled_1": "_9485b39f5744e902aee3",
-  "btn-info_is-disabled": "_9485b39f5744e902aee3",
-  "color-red": "--_9485b39f5744e902aee3",
-  "foo": "bar",
-  "foo_bar": "_9485b39f5744e902aee3",
-  "my-btn-info_is-disabled": "value",
-  "simple": "_9485b39f5744e902aee3",
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
+  "simple": "_0dd29f73dea88606ae8e",
 }
 `;
 
 exports[`ConfigCacheTestCases css local-ident-name exported tests should have correct local ident for css export locals 3`] = `
 Object {
-<<<<<<< HEAD
-  "btn--info_is-disabled_1": "_04a0a4472ff4d45a1166-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_04a0a4472ff4d45a1166-btn-info_is-disabled",
-  "color-red": "--_04a0a4472ff4d45a1166-color-red",
+  "btn--info_is-disabled_1": "_26658d651495575453a9-btn--info_is-disabled_1",
+  "btn-info_is-disabled": "_26658d651495575453a9-btn-info_is-disabled",
+  "color-red": "--_26658d651495575453a9-color-red",
   "foo": "bar",
-  "foo_bar": "_04a0a4472ff4d45a1166-foo_bar",
+  "foo_bar": "_26658d651495575453a9-foo_bar",
   "my-btn-info_is-disabled": "value",
-  "simple": "_04a0a4472ff4d45a1166-simple",
-=======
-  "btn--info_is-disabled_1": "_84ed87a43a2559553d27-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_84ed87a43a2559553d27-btn-info_is-disabled",
-  "color-red": "--_84ed87a43a2559553d27-color-red",
-  "foo": "bar",
-  "foo_bar": "_84ed87a43a2559553d27-foo_bar",
-  "my-btn-info_is-disabled": "value",
-  "simple": "_84ed87a43a2559553d27-simple",
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
+  "simple": "_26658d651495575453a9-simple",
 }
 `;
 
@@ -106,23 +86,13 @@ Object {
 
 exports[`ConfigCacheTestCases css local-ident-name exported tests should have correct local ident for css export locals 8`] = `
 Object {
-<<<<<<< HEAD
-  "btn--info_is-disabled_1": "ba1a7d6d0bb21c7b0653-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "ba1a7d6d0bb21c7b0653-btn-info_is-disabled",
-  "color-red": "--ba1a7d6d0bb21c7b0653-color-red",
+  "btn--info_is-disabled_1": "_78c918141017246fe472-btn--info_is-disabled_1",
+  "btn-info_is-disabled": "_78c918141017246fe472-btn-info_is-disabled",
+  "color-red": "--_78c918141017246fe472-color-red",
   "foo": "bar",
-  "foo_bar": "ba1a7d6d0bb21c7b0653-foo_bar",
+  "foo_bar": "_78c918141017246fe472-foo_bar",
   "my-btn-info_is-disabled": "value",
-  "simple": "ba1a7d6d0bb21c7b0653-simple",
-=======
-  "btn--info_is-disabled_1": "_995ad8168f8732c8dfaf-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_995ad8168f8732c8dfaf-btn-info_is-disabled",
-  "color-red": "--_995ad8168f8732c8dfaf-color-red",
-  "foo": "bar",
-  "foo_bar": "_995ad8168f8732c8dfaf-foo_bar",
-  "my-btn-info_is-disabled": "value",
-  "simple": "_995ad8168f8732c8dfaf-simple",
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
+  "simple": "_78c918141017246fe472-simple",
 }
 `;
 
@@ -140,45 +110,25 @@ Object {
 
 exports[`ConfigCacheTestCases css local-ident-name exported tests should have correct local ident for css export locals 10`] = `
 Object {
-<<<<<<< HEAD
-  "btn--info_is-disabled_1": "a02ad227dd548bb84a61",
-  "btn-info_is-disabled": "a02ad227dd548bb84a61",
-  "color-red": "--a02ad227dd548bb84a61",
+  "btn--info_is-disabled_1": "fd8953d7b68db99277a0",
+  "btn-info_is-disabled": "fd8953d7b68db99277a0",
+  "color-red": "--fd8953d7b68db99277a0",
   "foo": "bar",
-  "foo_bar": "a02ad227dd548bb84a61",
+  "foo_bar": "fd8953d7b68db99277a0",
   "my-btn-info_is-disabled": "value",
-  "simple": "a02ad227dd548bb84a61",
-=======
-  "btn--info_is-disabled_1": "ae304d470046d1051b66",
-  "btn-info_is-disabled": "ae304d470046d1051b66",
-  "color-red": "--ae304d470046d1051b66",
-  "foo": "bar",
-  "foo_bar": "ae304d470046d1051b66",
-  "my-btn-info_is-disabled": "value",
-  "simple": "ae304d470046d1051b66",
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
+  "simple": "fd8953d7b68db99277a0",
 }
 `;
 
 exports[`ConfigCacheTestCases css local-ident-name exported tests should have correct local ident for css export locals 11`] = `
 Object {
-<<<<<<< HEAD
-  "btn--info_is-disabled_1": "_81378ae70e35838d73e5-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_81378ae70e35838d73e5-btn-info_is-disabled",
-  "color-red": "--_81378ae70e35838d73e5-color-red",
+  "btn--info_is-disabled_1": "_54bf27341e3b9f7be65e-btn--info_is-disabled_1",
+  "btn-info_is-disabled": "_54bf27341e3b9f7be65e-btn-info_is-disabled",
+  "color-red": "--_54bf27341e3b9f7be65e-color-red",
   "foo": "bar",
-  "foo_bar": "_81378ae70e35838d73e5-foo_bar",
+  "foo_bar": "_54bf27341e3b9f7be65e-foo_bar",
   "my-btn-info_is-disabled": "value",
-  "simple": "_81378ae70e35838d73e5-simple",
-=======
-  "btn--info_is-disabled_1": "_9066743079465e618eba-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_9066743079465e618eba-btn-info_is-disabled",
-  "color-red": "--_9066743079465e618eba-color-red",
-  "foo": "bar",
-  "foo_bar": "_9066743079465e618eba-foo_bar",
-  "my-btn-info_is-disabled": "value",
-  "simple": "_9066743079465e618eba-simple",
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
+  "simple": "_54bf27341e3b9f7be65e-simple",
 }
 `;
 
@@ -232,22 +182,12 @@ Object {
 
 exports[`ConfigCacheTestCases css local-ident-name exported tests should have correct local ident for css export locals 16`] = `
 Object {
-<<<<<<< HEAD
-  "btn--info_is-disabled_1": "_68c15c0000bcbbd61f4d-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_68c15c0000bcbbd61f4d-btn-info_is-disabled",
-  "color-red": "--_68c15c0000bcbbd61f4d-color-red",
+  "btn--info_is-disabled_1": "_31b7efe08dce677d1ef4-btn--info_is-disabled_1",
+  "btn-info_is-disabled": "_31b7efe08dce677d1ef4-btn-info_is-disabled",
+  "color-red": "--_31b7efe08dce677d1ef4-color-red",
   "foo": "bar",
-  "foo_bar": "_68c15c0000bcbbd61f4d-foo_bar",
+  "foo_bar": "_31b7efe08dce677d1ef4-foo_bar",
   "my-btn-info_is-disabled": "value",
-  "simple": "_68c15c0000bcbbd61f4d-simple",
-=======
-  "btn--info_is-disabled_1": "_4eaeb129a47105e7db0c-btn--info_is-disabled_1",
-  "btn-info_is-disabled": "_4eaeb129a47105e7db0c-btn-info_is-disabled",
-  "color-red": "--_4eaeb129a47105e7db0c-color-red",
-  "foo": "bar",
-  "foo_bar": "_4eaeb129a47105e7db0c-foo_bar",
-  "my-btn-info_is-disabled": "value",
-  "simple": "_4eaeb129a47105e7db0c-simple",
->>>>>>> 846a6fbaa (fix: make asset modules available in JS when referenced from CSS and lazy JS)
+  "simple": "_31b7efe08dce677d1ef4-simple",
 }
 `;
